@@ -25,8 +25,10 @@
 ---
 
 ### 📁 Featured Projects
-- **[Taekwondo Website](https://luizclourenco.github.io/taekwondo/)** – University project showcasing frontend design with HTML/CSS  
+
 - **[Customer Credit Analysis](https://github.com/luizclourenco/Client_Credit_Analise_Port)** – Python project analyzing customer credit data using Pandas, with insights on defaulters, income, and age statistics  
+- **[Dispatch-operations-dashboard](https://github.com/luizclourenco/dispatch-operations-dashboard)** – Python project analyzing customer credit data using Pandas, with insights on defaulters, income, and age statistics
+- **[Taekwondo Website](https://luizclourenco.github.io/taekwondo/)** – University project showcasing frontend design with HTML/CSS  
 
 ---
 
