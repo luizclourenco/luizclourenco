@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luiz Carlos Lourenço</h1>
-<h3 align="center">A software engineering student from Brazil, learning Python and Data Analysis</h3> 
+<h3 align="center">Software Engineering student from Brazil 🇧🇷 | Python & Data Analysis | Sourcing Intern focused on Digital Transformation & Data Analytics</h3> 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=luizclourenco&label=Profile%20views&color=0e75b6&style=flat" alt="luizclourenco" />
